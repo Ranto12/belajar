@@ -1,0 +1,23 @@
+git sifatnya terdistribusi , yaitu kita tidak harus tergantung dengan server karena kita punya cadangan data di localhost komputer masing masing. dan bisa mengerjakan sebuah project dengan banyak developer dan saling mengupdate atas perkembangan setiap progres developer. 
+kemudian git akan mentracking perubahan dan siapa yang merubah jadi semua history akan tersimpan dan dapat kita lihat. 
+kita melakukan perubahan dengan cara meng commit dan ini akan terrecord dari setiap kali mengcommit, 
+cara membuat sebuah repository dalam gituhub
+1. create , kemudian berikan nama sesuai dengan nama sesuai anda,
+kemduian kita berikan deskripsi dan berikan akses public atau privasi , kemudian beriakan add a readme file, untuk dokumntasi , ini wajib jika sudah melakukan project besar
+add.gitingnore untuk 
+dan chose a licensee
+
+
+ketika kita membua proram , pada terminal kita ketikan "init git" maka akan terdapat file .git
+git remote add origin 
+copy alamat yg adaa di github
+
+install git di windows
+
+git graph
+
+git add menambahkan, jika di tambah nama file maka hanya 1 file, jika di tambah . maka akan menjadi keseluruhan
+
+untuk mengcommit dengan pesean : git commit -m " inisialisasi project (ini sudah siap di kirimkan ke server dengan cara push) 
+git push origin 
+git status, apakah ada perubahan yang siap di comit
