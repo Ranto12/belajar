@@ -21,3 +21,25 @@ git add menambahkan, jika di tambah nama file maka hanya 1 file, jika di tambah 
 untuk mengcommit dengan pesean : git commit -m " inisialisasi project (ini sudah siap di kirimkan ke server dengan cara push) 
 git push origin 
 git status, apakah ada perubahan yang siap di comit
+
+git diff untuk mengetahui prubahan apa saja yang terjadi pada  file. 
+
+git stats , melakukan penyimpanan sementara
+
+yang nantinya dilanjutkan dengan dit add. 
+git commit -m "fixing F"
+git push origin master
+
+git stast apply
+
+akan terjadi masalah ketika ada 2 yaitu perubahan yang sudah ada dan yang baru datang
+
+
+git fetch adalah pengambilan data pada server kita, dengan cara git fetch origin. 
+git pull origin master adalah digunakan untuk mengambil sudah di brancing
+
+cara membuat branch 
+git branch futeureA
+git branch -a
+untuk pindah dan membuat brach baru:
+git cheakput branch fearuteB
