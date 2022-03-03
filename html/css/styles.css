@@ -1,5 +1,8 @@
 body {
-    background-color: powderblue;
+    background-image: url('/html/images/indonesia.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 h1 {
@@ -40,4 +43,10 @@ a:visited {
 a:hover,
 a:active {
     background-color: red;
+}
+
+img {
+    width: 50%;
+    height: 100%;
+    display: inline-block;
 }

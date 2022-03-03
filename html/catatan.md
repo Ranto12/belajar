@@ -14,3 +14,15 @@ Use the CSS margin property for space outside the border
 ``` Use the id attribute (id="value") to define bookmarks in a page
 Use the href attribute (href="#value") to link to the bookmark
 ```
+
+### 
+Use the HTML <img> element to define an image
+Use the HTML src attribute to define the URL of the image
+Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
+Use the HTML width and height attributes or the CSS width and height properties to define the size of the image
+Use the CSS float property to let the image float to the left or to the right
+
+### Chapter Summary
+Use the HTML <map> element to define an image map
+Use the HTML <area> element to define the clickable areas in the image map
+Use the HTML usemap attribute of the <img> element to point to an image map
