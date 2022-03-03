@@ -9,3 +9,8 @@ Use the CSS border property for borders
 Use the CSS padding property for space inside the border
 Use the CSS margin property for space outside the border
 ```
+
+### baru
+``` Use the id attribute (id="value") to define bookmarks in a page
+Use the href attribute (href="#value") to link to the bookmark
+```
