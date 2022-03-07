@@ -1,0 +1,20 @@
+a {
+    color: gray !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #71c55d !important;
+}
+
+.text_welcome {
+    padding: 90px;
+    color: #71c55d;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.conten-main-bg {
+    height: calc(90vh);
+    background: url(../img/garden.png);
+    background-size: 100%;
+}
